@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>xAtishayx&#x27;s Blog</title>
-    <link href="https://xatishayx.github.io/xAtishayx-Blog/feed.xml" rel="self" />
-    <link href="https://xatishayx.github.io/xAtishayx-Blog" />
-    <updated>2019-08-23T02:41:54+05:30</updated>
+    <link href="https://xatishayx.codes/feed.xml" rel="self" />
+    <link href="https://xatishayx.codes" />
+    <updated>2019-08-23T02:44:52+05:30</updated>
     <author>
         <name>xAtishayx</name>
     </author>
-    <id>https://xatishayx.github.io/xAtishayx-Blog</id>
+    <id>https://xatishayx.codes</id>
 
     <entry>
         <title>Week 1- Noobie</title>
         <author>
             <name>xAtishayx</name>
         </author>
-        <link href="https://xatishayx.github.io/xAtishayx-Blog/week-1-noobie.html"/>
-        <id>https://xatishayx.github.io/xAtishayx-Blog/week-1-noobie.html</id>
+        <link href="https://xatishayx.codes/week-1-noobie/"/>
+        <id>https://xatishayx.codes/week-1-noobie/</id>
 
         <updated>2019-08-22T19:41:29+05:30</updated>
             <summary>
