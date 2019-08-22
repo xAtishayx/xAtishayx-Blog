@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>xAtishayx&#x27;s Blog</title>
+    <link href="https://xatishayx.github.io/xAtishayx-Blog/feed.xml" rel="self" />
+    <link href="https://xatishayx.github.io/xAtishayx-Blog" />
+    <updated>2019-08-22T20:10:28+05:30</updated>
+    <author>
+        <name>xAtishayx</name>
+    </author>
+    <id>https://xatishayx.github.io/xAtishayx-Blog</id>
+
+    <entry>
+        <title>Week 1- Noobie</title>
+        <author>
+            <name>xAtishayx</name>
+        </author>
+        <link href="https://xatishayx.github.io/xAtishayx-Blog/week-1-noobie.html"/>
+        <id>https://xatishayx.github.io/xAtishayx-Blog/week-1-noobie.html</id>
+
+        <updated>2019-08-22T19:41:29+05:30</updated>
+            <summary>
+                <![CDATA[
+                     Summer Breaks Summer breaks are about to end and I worked on CSS pre-processors like SASS/SCSS , these are super easy to use and once you have switched to SASS , you never wanna go back to normal CSS. Sass is a preprocessor scripting language&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery"   > </div>
+<hr>
+<h2 id="summer-breaks">Summer Breaks</h2>
+<br>
+<p>Summer breaks are about to end and I worked on CSS pre-processors like SASS/SCSS , these are super easy to use and once you have switched to SASS , you never wanna go back to normal CSS.</p>
+<p> </p>
+<p class="align-center">Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). SassScript is the scripting language itself. Sass consists of two syntaxes. The original syntax, called “the indented syntax,” uses a syntax similar to Haml.[4] It uses indentation to separate code blocks and newlinecharacters to separate rules. The newer syntax, “SCSS” (Sassy CSS), uses block formatting like that of CSS. It uses braces to denote code blocks and semicolons to separate lines within a block. The indented syntax and SCSS files are traditionally given the extensions .sass and .scss, respectively.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
