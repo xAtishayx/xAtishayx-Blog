@@ -5,6 +5,7 @@
     "home_page_url": "https://xatishayx.codes",
     "feed_url": "https://xatishayx.codes/feed.json",
     "user_comment": "",
+    "icon": "https://xatishayx.codes/media/website/PNGIX.com_fire-effect-png_779091.png",
     "author": {
         "name": "xAtishayx"
     },
@@ -13,7 +14,7 @@
             "id": "https://xatishayx.codes/week-1-noobie/",
             "url": "https://xatishayx.codes/week-1-noobie/",
             "title": "Week 1- Noobie",
-            "summary": " Summer Breaks Summer breaks are about to end and I worked on CSS pre-processors like SASS/SCSS , these are super easy to use and once you have switched to SASS , you never wanna go back to normal CSS. Sass is a preprocessor scripting language&hellip;",
+            "summary": " Summer Breaks Summer breaks are about to end and I worked on CSS pre-processors like SASS/SCSS , these are super easy to&hellip;",
             "content_html": "<div class=\"gallery\"   > </div>\n<hr>\n<h2 id=\"summer-breaks\">Summer Breaks</h2>\n<br>\n<p>Summer breaks are about to end and I worked on CSS pre-processors like SASS/SCSS , these are super easy to use and once you have switched to SASS , you never wanna go back to normal CSS.</p>\n<p> </p>\n<p class=\"align-center\">Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). SassScript is the scripting language itself. Sass consists of two syntaxes. The original syntax, called “the indented syntax,” uses a syntax similar to Haml.[4] It uses indentation to separate code blocks and newlinecharacters to separate rules. The newer syntax, “SCSS” (Sassy CSS), uses block formatting like that of CSS. It uses braces to denote code blocks and semicolons to separate lines within a block. The indented syntax and SCSS files are traditionally given the extensions .sass and .scss, respectively.</p>",
             "author": {
                 "name": "xAtishayx"
