@@ -3,12 +3,47 @@
     <title>xAtishayx&#x27;s Blog</title>
     <link href="https://xatishayx.codes/feed.xml" rel="self" />
     <link href="https://xatishayx.codes" />
-    <updated>2019-09-08T00:54:00+05:30</updated>
+    <updated>2019-09-08T01:11:01+05:30</updated>
     <author>
         <name>xAtishayx</name>
     </author>
     <id>https://xatishayx.codes</id>
 
+    <entry>
+        <title>The ODIN Project</title>
+        <author>
+            <name>xAtishayx</name>
+        </author>
+        <link href="https://xatishayx.codes/the-odin-project/"/>
+        <id>https://xatishayx.codes/the-odin-project/</id>
+
+        <updated>2019-09-08T01:10:53+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>A Long Month</title>
+        <author>
+            <name>xAtishayx</name>
+        </author>
+        <link href="https://xatishayx.codes/a-long-month/"/>
+        <id>https://xatishayx.codes/a-long-month/</id>
+
+        <updated>2019-09-08T01:07:04+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Learning Javascript the hard way. Finished Eloquent Javascript, If you are a complete beginner,I found it too complex for us (advance) beginners, It&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Learning Javascript the hard way.</strong></p>
+<p>          Finished <a href="#INTERNAL_LINK#/post/null" title="https://eloquentjavascript.net/">Eloquent Javascript</a>, If you are a complete beginner,I found it too complex for us (advance) beginners, It was hard for me too, but I think Eloquent JavaScript is a <em>PHENOMENAL</em> book.  </p>
+<p> </p>
+<p>        </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Week 1- Noobie</title>
         <author>
